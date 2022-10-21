@@ -1,5 +1,7 @@
 # Tennessee Early Intervention System
 
+LINK TO PRESENTATION: https://docs.google.com/presentation/d/1mh_uN-TXeRHXeyddsLX-sBcBQ47El7TkptWEUxaEWd4/edit#slide=id.p
+
 [The Tennessee Early Intervention System (TEIS)](https://www.tn.gov/didd/for-consumers/tennessee-early-intervention-system-teis.html) is a program that provides services to children ages birth up to age three who have disabilities or other developmental delays.
 
 The Individuals with Disabilities Education Act (IDEA) requires states to provide an annual report to the public about the performance of early intervention service programs (EIS programs) compared to the state's performance on indicator targets. This reporting is done for any child who exited and was enrolled in TEIS for at least six months (183 days) from initial IFSP to exit date.
