@@ -1,5 +1,7 @@
 # Tennessee Early Intervention System
 
+LINK TO OUR PRESENTATION: https://docs.google.com/presentation/d/1mh_uN-TXeRHXeyddsLX-sBcBQ47El7TkptWEUxaEWd4/edit#slide=id.p
+
 [The Tennessee Early Intervention System (TEIS)](https://www.tn.gov/didd/for-consumers/tennessee-early-intervention-system-teis.html) is a program that provides services to children ages birth up to age three who have disabilities or other developmental delays.
 
 The Individuals with Disabilities Education Act (IDEA) requires states to provide an annual report to the public about the performance of early intervention service programs (EIS programs) compared to the state's performance on indicator targets. This reporting is done for any child who exited and was enrolled in TEIS for at least six months (183 days) from initial IFSP to exit date.
@@ -26,3 +28,5 @@ After answering the above questions, additional areas you can look into are list
 * Does typical time of service differ for different eligibility categories?
 * Do exit reasons vary by eligibility category? Do more children in one eligibility category age out compared to leaving for other reasons?
 * In the "ECO with Exit21-22" sheet, columns D, E, and F contain the entry ECO scores, and columns H, I, and J contain the exit scores. Analyze these scores by looking at the typical improvement seen for each entry rating compared to the time of service. For example, what percentage of children entering with a score of 1 also exit with a score of 1? How many improve to a 2 or a 3? How does this vary by time of service? 
+
+
